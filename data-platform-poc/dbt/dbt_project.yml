@@ -1,0 +1,6 @@
+name: 'data_platform_poc'
+version: '1.0'
+profile: 'default'
+source-paths: ["models"]
+target-path: "target"
+clean-targets: ["target"]
